@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bauroil
 - 👀 I’m interested in Data Science for Geophysics and geology
-- 🌱 I’m currently learning Python and Data science basics
+- 🌱 I’m currently learning Python and Data science
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me zhaslan@hotmail.fr
 
